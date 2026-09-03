@@ -15,6 +15,15 @@ EditorBuildSettings:
     path: Assets/Escenas/03 - cylinder Target 1.unity
     guid: 5b5e4a91733923045b876b034d2a9d93
   - enabled: 1
+    path: Assets/Escenas/04-Cloud recognition.unity
+    guid: 539c3aa111cb14c4e852f6194dd28676
+  - enabled: 1
     path: Assets/Escenas/00 - Menu principal.unity
     guid: bfe265055c171ed4b8622ed72dcb34cd
+  - enabled: 1
+    path: Assets/Escenas/05 - Barcode.unity
+    guid: dec562954d6bb8341b8c92f91dae15d7
+  - enabled: 0
+    path: Assets/Escenas/04 - cylinder Target 2.unity
+    guid: e6be4a2aa2f7a474c89951e333220a39
   m_configObjects: {}
